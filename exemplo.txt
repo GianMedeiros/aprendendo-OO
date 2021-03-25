@@ -1,0 +1,5 @@
+# Aula 1 - Exemplo de utilização do git
+## Aluno: Gian Medeiros Rosa
+
+Primeira aula sobre comandos básicos do git.
+
